@@ -1,5 +1,5 @@
 # Welcome to My GitHub! 🎮
-Hello there! Names **Artem Skoropadskyi**, and I am a recent graduate with a **Bachelor of Science in Computer Science** from the **National Technical University of Ukraine "Igor Sikorskyy – Kyiv"**. With 1.5 years of hands-on experience in game development, I have honed my skills in creating immersive and engaging gaming experiences.
+Hello there! Names **Artem Skoropadskyi**, and I am a recent graduate with a **Bachelor of Science in Computer Science** from the **National Technical University of Ukraine "Igor Sikorskyy"**. With 1.5 years of hands-on experience in game development, I have honed my skills in creating immersive and engaging gaming experiences.
 Currently, developing an **indie game project**. I have a strong background in various technologies and tools, including **Unreal Engine, C++, Unity, C#, and more**. My experience spans across roles such as **3D Javascript and C++ Engineer at Luxolis, FQA Technician at Testronic Labs, and Unreal Engine Developer at Dragon's Lake**.
 
 ## Skills
