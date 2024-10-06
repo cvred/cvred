@@ -18,7 +18,7 @@ Currently, I'm participating in developing an **indie game project**. My backgro
 - Polish: B1 Intermediate
 
 ## 🤝 Let's Connect!
-Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/artem-skoropadskyi/), for any business please reach out me via e-mail that is included in the profile section.
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/artem-skoropadskyi/), for any business please reach out me via e-mail that is provided in the profile section.
 
 🔗[Visit my portfolio](https://l1ghtboro.github.io/artem-skoropadskyi-portfolio/)
 
