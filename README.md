@@ -23,4 +23,5 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/artem-skoropad
 🔗[Visit my portfolio](https://l1ghtboro.github.io/artem-skoropadskyi-portfolio/)
 
 Regards,
+
 Artem Skoropadskyi
