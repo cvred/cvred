@@ -15,7 +15,7 @@ Currently, I'm participating in developing an **indie game project**. My backgro
 - Ukrainian: Native language
 - Russian: Bilingual
 - English: C1 Advanced
-- Polish: B2 Upper Intermediate
+- Polish: B1 Intermediate
 - German B1 Intermediate
 
 ## 🤝 Let's Connect!
