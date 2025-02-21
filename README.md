@@ -11,17 +11,10 @@ Currently, I'm participating in developing an **indie game project**. My backgro
 - Version Control: GitHub
 - Others: Custom shaders, memory management optimization
 
-## 🌐 Languages
-- Ukrainian: Native language
-- Russian: Bilingual
-- English: C1 Advanced
-- Polish: B1 Intermediate
-- German B1 Intermediate
-
 ## 🤝 Let's Connect!
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/artem-skoropadskyi/), for any business please reach out me via e-mail that is provided in the profile section.
 
-🔗[Visit my portfolio](https://l1ghtboro.github.io/artem-skoropadskyi-portfolio/)
+🔗[Visit my portfolio](https://cvred.github.io/artem-skoropadskyi-portfolio/)
 
 Regards,
 
